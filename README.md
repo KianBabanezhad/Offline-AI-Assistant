@@ -1,6 +1,7 @@
 # Offline AI Assistant
 
-A simple yet powerful **Streamlit-based AI assistant** that allows users to interact with locally running large language models (via [Ollama](https://ollama.com)) and optionally reference uploaded documents for context.
+A simple yet powerful **Streamlit-based AI assistant** that allows users to interact with locally running large language models (via [Ollama](https://ollama.com)) and optionally reference uploaded documents for context. The app is available to run on a local server or directly on a local system, ensuring full control and data privacy.
+It's also deployable for multiple users, making it suitable for internal team environments.
 
 ---
 
